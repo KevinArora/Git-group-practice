@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 body {
   background-color:lightblue;
@@ -5,4 +6,12 @@ body {
 h1 {
   color: blue;
 
+=======
+body {
+  background-color:lightblue;
+}
+
+h1 {
+  color: blue;
+>>>>>>> 095e2c3c15b66252a6a432959a16544a88fb9b20
 }
