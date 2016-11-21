@@ -1,8 +1,18 @@
 <<<<<<< HEAD
+
 body {
   background-color:lightblue;
-=======
+}
 h1 {
   color: blue;
->>>>>>> 8509fe576ae5c3a058de81df8bc48fc07244114e
+}
+
+=======
+body {
+  background-color:lightblue;
+}
+
+h1 {
+  color: blue;
+>>>>>>> 095e2c3c15b66252a6a432959a16544a88fb9b20
 }
